@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Site</title>
+  </head>
+  <body>
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+      alt="My image"
+      style="max-width: 100%; height: auto;"
+    >
+  </body>
+</html>
